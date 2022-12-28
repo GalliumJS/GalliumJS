@@ -1,5 +1,8 @@
 # Create Apps In Node.js
 
+# Package/Compile App
+node node_modules/gallium/index.js pack
+
 # Functions
 
 ## Require
